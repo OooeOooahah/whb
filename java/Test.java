@@ -6,5 +6,6 @@ public class Test {
         int i =11;
         System.out.println(i);
         System.out.println("right");
+        System.out.println("left");
     }
 }
